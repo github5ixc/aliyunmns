@@ -1,0 +1,21 @@
+{
+    "name": "yhdx/aliyunmns",
+    "description": "Aliyun MNS official PHP SDK for Composer, maintained by yhdx",
+    "keywords": ["aliyun MNS"],
+    "homepage": "https://github.com/github5ixc/aliyunmns",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aliyun MNS",
+            "email": "mns@aliyun.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "AliyunMNS\\": "AliyunMNS" }
+    }
+}
