@@ -15,6 +15,7 @@
             "email": "mns@aliyun.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "AliyunMNS\\": "AliyunMNS" }
     }
